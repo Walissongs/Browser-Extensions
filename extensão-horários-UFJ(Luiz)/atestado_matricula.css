@@ -1,0 +1,91 @@
+h3 {
+	font-variant: small-caps;
+	text-align: center;
+	border-bottom: 1px solid #BBB;
+	margin-bottom: 1px;
+}
+
+h4 {
+	font-variant: small-caps;
+}
+
+table {
+	margin: 3px 0;
+	border-collapse: separate;
+}
+
+table thead {
+	background: #FFF;
+}
+
+#matriculas {
+	width: 100%;
+	font-size: 0.9em;
+	border-left: 1px solid #BBB; border-top: 1px solid #BBB;
+}
+
+#matriculas td, #matriculas th { border-right: 1px solid #BBB; border-bottom: 1px solid #BBB;}
+
+#matriculas td {
+	padding: 2px;
+}
+#matriculas span.componente {
+	font-weight: bold;
+	display: block;
+}
+#matriculas span.docente{
+	font-size: 0.8em;
+	display: block;
+}
+
+#matriculas span.tipoComponente, #matriculas span.local  {
+	font-size: 0.8em;
+	padding-right: 15px;
+}
+
+#matriculas .codigo, #matriculas .turma, #matriculas .status, #matriculas .horario {
+	vertical-align: top;
+	text-align: center;
+	font-size: 0.85em;
+	padding: 3px 3px;
+}
+
+#matriculas .status {
+	font-size: 1em;
+}
+
+#identificacao {
+	width: 100%;
+}
+
+#identificacao td{
+	padding: 0px;
+}
+
+
+#horario {
+	width: 100%;
+	border-left: 1px solid #BBB; border-top: 1px solid #BBB;
+}
+
+#horario td{
+	font-size: 0.8em;
+	border-right: 1px solid #BBB; border-bottom: 1px solid #BBB;
+}
+
+#autenticacao {
+	width: 97%;
+	margin: 10px auto 2px;
+	text-align: center;
+}
+
+#autenticacao h4 {
+	border-bottom: 1px solid #BBB;
+	margin-bottom: 3px;
+	padding-bottom: 2px;
+}
+
+#autenticacao span {
+	color: #922;
+	font-weight: bold;
+}

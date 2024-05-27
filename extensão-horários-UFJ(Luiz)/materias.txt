@@ -1,0 +1,48 @@
+ICE0004 - Álgebra Linear 64
+ICE0007 - Algoritmos e Programação I 64
+ICE0008 - Algoritmos e Programação II 64
+ICE0011 - Análise e Projeto de Algoritmos 64
+ICE0013 - Arquitetura de Computadores 64
+ICE0017 - Banco de Dados I 64
+ICE0016 - Banco de Dados II 64
+ICE0049 - Cálculo I 64
+ICE0053 - Cálculo II 64
+ICE0054 - Cálculo III 64
+ICE0582 - Carreira e Vivência na Computação 32
+ICE0060 - Computação Gráfica 64
+ICE0074 - Empreendedorismo 64
+ICE0117 - Estrutura de Dados I 64
+ICE0121 - Estrutura de Dados II 64
+ICE0104 - Estágio Supervisionado - 128h 128 NCO 17. Fundamentos do Estágio Curricular Obrigatório 16 NEO 3. Estágio Curricular Obrigatório 112
+ICE0182 - Geometria Analítica 64
+ICE0239 - Lógica para Ciência da Computação 64
+ICE0241 - Matemática Discreta 64
+ICE0248 - Metodologia do Trabalho Científico 64
+ICE0262 - Paradigmas de Programação 64
+ICE0263 - Pesquisa Operacional 64
+ICE0277 - Probabilidade e Estatística 64
+ICE0286 - Programação Orientada a Objeto 64
+ICE0370 - Redes de Computadores I 64
+ICE0371 - Redes de Computadores II 64
+ICE0377 - Sistemas Digitais 64
+ICE0381 - Sistemas Operacionais I 64
+ICE0383 - Sistemas Operacionais II 64
+ICE0388 - Teoria dos Grafos 64
+ICE0289 - Trabalho de Conclusão de Curso I 64
+ICE0291 - Trabalho de Conclusão de Curso II 32
+ICE0056 - Compiladores 64
+ICE0077 - Engenharia de Soft,ware 64
+ICE0186 - Gerência e Qualidade de Software 32
+ICE0196 - Inteligência Artificial 64
+ICE0200 - Interface Homem-Computador 64
+ICE0237 - Linguagens Formais e Autômatos 64
+ICE0288 - Projeto de Software 64
+ICE0385 - Teoria da Computação 64
+ICH0269 - Libras I - Língua Brasileira de Sinais I 64
+ICE0400 - Tópicos em Banco de Dados 64
+ICE0062 - Tópicos em Computação Gráfica 64
+ICE0401 - Tópicos em Engenharia de Software 64
+ICE0058 - Tópicos em Inteligência Artificial 64
+ICE0059 - Tópicos em Inteligência Artificial 64
+ICE0280 - Tópicos em Processamento Digital de Imagens 64
+ICE0187 - Tópicos em Redes e Sistemas Distribuídos 64
