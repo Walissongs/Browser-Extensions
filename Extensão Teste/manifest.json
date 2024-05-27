@@ -1,0 +1,14 @@
+{
+  
+  "name": "Minha Extensão",
+  "description": "Minha Primeira Extensão",
+  "version": "1.1",
+  "manifest_version":3,
+  "permissions": [
+  "activeTab",
+  "scripting"
+  ],
+  "action": {
+    "default_popup": "index.html"
+  }
+  }
